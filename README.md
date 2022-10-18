@@ -4,6 +4,6 @@ This is a clone project of the web-based word game Wordle (created by Josh Wardl
 
 ## Run the project
 
-You can run the project by opening [http://oriochayon.com/wordle](http://oriochayon.com/wordle). 
+You can run the project by opening [oriochayon.com/wordle](https://oriochayon.com/wordle). 
 Alternatively, you can clone the repository to your local machine and use "npm install" and then "npm start" to run it
 
